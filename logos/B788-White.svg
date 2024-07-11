@@ -3,7 +3,7 @@
     <style>
       .cls-1 {
         font-size: 218px;
-        fill: #171f2c;
+        fill: #fff;
         font-family: Manrope;
         font-weight: 600;
       }
